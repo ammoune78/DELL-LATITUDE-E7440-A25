@@ -1,4 +1,4 @@
-This Branch is for DELL Latitude E7440 with A25 biossystem with the following specs:
+This Branch is for DELL Latitude E7440 with A25 bios system with the following specs:
 
 Intel i5 4300U CPU
 8Gb Ram DDR3 1600
